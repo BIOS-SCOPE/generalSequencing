@@ -2,7 +2,7 @@
 A repository to hold code related to organizing sequence data this is NOT the database code
 
 ## 18 September 2026
-Pull in cruise/cast/Niskin information from the BATS cast sheets. Starting with the script needed to parse the information from the cast sheets.
+Pull in cruise/cast/Niskin information from the BATS cast sheets (using ```getCCN.ipynb```). Starting with the script needed to parse the information from the cast sheets.
 
 ## 4 September 2026
 We have the need for a place to store misc. code bits that we use to organize sequence data. This is *not* the code used to make a database. 
